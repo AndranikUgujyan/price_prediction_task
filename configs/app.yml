@@ -1,0 +1,10 @@
+model_1_path: "models/model_1"
+model_2_path: "models/model_2"
+model_3_path: "models/model_3"
+model_4_path: "models/model_7"
+
+main_dataset: "data/testset_B.tsv"
+train_data_path: "data/train_price_predict.csv"
+test_data_path: "data/test_price_predict.csv"
+
+all_models_result_plot_path: "models_results_plots/all_models_score_df.png"
